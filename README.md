@@ -25,11 +25,11 @@
   </p>
     
   <p align="center">
-    :seedling: I am an Engineer for Liberty Mutual and have been practicing Full Stack Engineering for nearly two years
+    :zap: I am an Engineer for Liberty Mutual and have been practicing Full Stack Engineering for nearly two years
   </p>
   
   <p align="center">
-    :zap: Before becoming a Software Engineer I worked in the insurance space working in contact centers, I spend time as an agent, a mentor/Nesting coach, and a Trainer/Learning Specialist.
+    💁: Before becoming a Software Engineer I worked in the insurance space working in contact centers, I spend time as an agent, a mentor/Nesting coach, and a Trainer/Learning Specialist.
   </p>
 
   <h1 align="center">
@@ -48,20 +48,19 @@
   <p>
     I am proficient in several other languages/frameworks such as Python's Django, TypeScript's Angular, Vue.JS and more, but the above are my preferred languages.
   </p>
+  <h1>
+    The Showcase
+  </h1>
+  <p>
+    This is a short collection of a few of the things I have worked on. Most of my best work has been done professionally on proprietary software I cannot share here, but here are a few of the things I have worked on in-between.
+  </p>
+  <h2>
+    Sales Tracker
+  </h2>
+  <p>
+    This is probably my most interesting project to talk about as it truly the most learning I have done in the fewest days. I worked on this a part of a 4 day group hackathon for our onboarding with Liberty Mutual, there were a total of 4 of us, two on the frontend, two on the backend, I worked on the frontend. This was my first time working with charts, I decided to learn Charts.JS while the others worked on either mocking data, setting up Models, Views, controllers or figuring out how to style the app. I really had to stretch my knowledge of React, this is where I learned exactly why understanding that setState runs async, that it uses referencial equation, and how to use helper functions within the frame of state manipulation was so important. One of the more fun challenges I had with this project was the loss of the backend, I could not possibly run the backend code for a public deploy, as the dependancies were in a library specific to LM's ecosystem, so I actually had to write a utility to come up with hundreds of randomized contacts so I could deploy this as a portfolio piece. If I were to re-write it now, I wouldn't change much honestly, the code needs cleaning, it's hard to read, there are some functions that could be condensed or combined, but I'm pretty proud of the work for only having had little less than 4 days to write it.
+  </p>
+  ![image](https://github.com/TylusDawkins/TylusDawkins/assets/100214696/8a6c341c-0f7b-42d9-a856-9501c48bfec8)
+
 </body>
 
-
-<!--
-**TylusDawkins/TylusDawkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
