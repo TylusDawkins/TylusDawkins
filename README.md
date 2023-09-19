@@ -20,16 +20,16 @@
   <p align="center">
     Truthfully, I don't have much to say about myself. 
   </p>
-- I am born and raised in Las Vegas, NV
+  I am born and raised in Las Vegas, NV
     - I am a father to two wonderful toddlers
     - I have been practicing Full Stack Engineering for nearly two years
     - Before becoming a Software Engineer I worked in the insurance space working in contact centers, I spend time as an agent, a mentor/Nesting coach, and a Trainer/Learning Specialist.
 
-    - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I was born and raised in Las Vegas, NV
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I am an Engineer for Liberty Mutual and have been practicing Full Stack Engineering for nearly two years
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: Before becoming a Software Engineer I worked in the insurance space working in contact centers, I spend time as an agent, a mentor/Nesting coach, and a Trainer/Learning Specialist.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
