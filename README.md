@@ -20,12 +20,8 @@
   <p align="center">
     Truthfully, I don't have much to say about myself. 
   </p>
-  I am born and raised in Las Vegas, NV
-    - I am a father to two wonderful toddlers
-    - I have been practicing Full Stack Engineering for nearly two years
-    - Before becoming a Software Engineer I worked in the insurance space working in contact centers, I spend time as an agent, a mentor/Nesting coach, and a Trainer/Learning Specialist.
 
-- :telescope: I was born and raised in Las Vegas, NV
+- :seedling: I was born and raised in Las Vegas, NV
 
 - :seedling: I am an Engineer for Liberty Mutual and have been practicing Full Stack Engineering for nearly two years
 
