@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+[image](https://github.com/TylusDawkins/TylusDawkins/assets/100214696/00ab028b-6c26-4fed-bf36-934f162ea817)
 </div>
 
 <!--
