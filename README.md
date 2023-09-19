@@ -19,11 +19,12 @@
   </p>
   <p align="center">
     Truthfully, I don't have much to say about myself. 
+  </p>
     - I am born and raised in Las Vegas, NV
     - I am a father to two wonderful toddlers
     - I have been practicing Full Stack Engineering for nearly two years
     - Before becoming a Software Engineer I worked in the insurance space working in contact centers, I spend time as an agent, a mentor/Nesting coach, and a Trainer/Learning Specialist.
-  </p>
+
   <h1 align="center">
     Stacks/Talents
   </h1>
