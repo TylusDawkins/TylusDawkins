@@ -70,7 +70,7 @@
 <p align="center">
   This is a project that I have been building as part of a family project, it is currently on hold, and thus development has stopped on it, it's certainly not my best or prettiest work but it still details an interesting part of my journey. Originally I built this out in plain ol' React, since first starting developmet it became ubundantly clear that React on it's own was not well suited for this sort of project, with plans for hundreds of images to be rendered at a time, as well as the expanding tech debt that is development in base react, I felt that using a SSR framework was a must and that it would make the development experience much better if I could write API routes within the same project. Thus I converted all of my react Syntax to Next syntax and learned how to develop in Next. Like I mentioned earlier, it's not super pretty, it's also not insanely technical, but I learned how to incorporate express functionalities into Next components. Now, it is worth mentioning that this is a full-stack app with an admin dashboard in the background, I have implemented full-crud into this. 
 </p>
-<image src="https://github.com/TylusDawkins/TylusDawkins/assets/100214696/3471bd1c-d31f-4783-9edb-b9f293fddce6" height='50%' width='100%' align="center"/>
+<image src="https://github.com/TylusDawkins/TylusDawkins/assets/100214696/e311a8cc-6297-4ff5-a469-9555f0dce023" height='50%' width='100%' align="center"/>
 <p>
   https://dmj-next-test.vercel.app/home/design-board
 </p>
