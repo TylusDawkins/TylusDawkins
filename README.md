@@ -1,10 +1,31 @@
 
 <body align="center">
+  <h1>THIS IS A WIP</h1>
   <div id="header" align="center">
     <img src="https://media0.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif" width="100"/>
   </div>
-  <h1 align="center">Introduction</h1>
-  <p align="center">Nice to meet you! I'm Tylus Dawkins.</p>
+  <div>
+    <div id="badges">
+      <a href="https://www.linkedin.com/in/tylus-dawkins-292785160/">
+       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+    </div>
+  </div>
+  <h1 align="center">
+    Introductions
+  </h1>
+  <p align="center">
+    Nice to meet you! I'm Tylus Dawkins.
+  </p>
+  <p align="center">
+    Truthfully, I don't have much to say about myself. I am born and raised in Las Vegas, NV, I am a father to two wonderful toddlers, I have been practicing Full Stack Engineering for nearly two years. Before becoming a Software Engineer I worked in the insurance space working in contact centers, I spend time as an agent, a mentor/Nesting coach, and a Trainer/Learning Specialist.
+  </p>
+  <h1 align="center">
+    Stacks/Talents
+  </h1>
+  <p>
+    I am primarially focused on Full-Stack work using JS and Node in various frameworks/libraries.
+  </p>
 </body>
 
 
