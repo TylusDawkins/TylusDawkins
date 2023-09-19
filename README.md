@@ -3,8 +3,8 @@
   <div id="header" align="center">
     <img src="https://media0.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif" width="100"/>
   </div>
-  <h1>Introduction</h1>
-  <p>Nice to meet you! I'm Tylus Dawkins.</p>
+  <h1 align="center">Introduction</h1>
+  <p align="center">Nice to meet you! I'm Tylus Dawkins.</p>
 </body>
 
 
