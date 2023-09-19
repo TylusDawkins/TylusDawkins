@@ -21,21 +21,20 @@
     Truthfully, I don't have much to say about myself. 
   </p>
   <p align="center">
-    - :seedling: I was born and raised in Las Vegas, NV
+    :seedling: I was born and raised in Las Vegas, NV
   </p>
     
   <p align="center">
-    - :seedling: I am an Engineer for Liberty Mutual and have been practicing Full Stack Engineering for nearly two years
+    :seedling: I am an Engineer for Liberty Mutual and have been practicing Full Stack Engineering for nearly two years
   </p>
   
   <p align="center">
-    - :zap: Before becoming a Software Engineer I worked in the insurance space working in contact centers, I spend time as an agent, a mentor/Nesting coach, and a Trainer/Learning Specialist.
+    :zap: Before becoming a Software Engineer I worked in the insurance space working in contact centers, I spend time as an agent, a mentor/Nesting coach, and a Trainer/Learning Specialist.
   </p>
   
   <p align="center">
-    - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+    :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
   </p>
-
 
   <h1 align="center">
     Stacks/Talents
