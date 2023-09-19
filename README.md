@@ -31,10 +31,6 @@
   <p align="center">
     :zap: Before becoming a Software Engineer I worked in the insurance space working in contact centers, I spend time as an agent, a mentor/Nesting coach, and a Trainer/Learning Specialist.
   </p>
-  
-  <p align="center">
-    :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-  </p>
 
   <h1 align="center">
     Stacks/Talents
