@@ -4,8 +4,8 @@
   <div id="header" align="center">
     <img src="https://media0.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif" width="100"/>
   </div>
-  <div>
-    <div id="badges">
+  <div align="center">
+    <div id="badges" width="20%">
       <a href="https://www.linkedin.com/in/tylus-dawkins-292785160/">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
