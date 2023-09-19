@@ -6,7 +6,7 @@
   </div>
   <div align="center">
     <div id="badges" width="20%">
-      <a href="https://www.linkedin.com/in/tylus-dawkins-292785160/">
+      <a href="https://www.linkedin.com/in/tylus-dawkins-292785160/" target="_blank">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
     </div>
