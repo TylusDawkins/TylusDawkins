@@ -60,7 +60,7 @@
   <p>
     This is probably my most interesting project to talk about as it truly the most learning I have done in the fewest days. I worked on this a part of a 4 day group hackathon for our onboarding with Liberty Mutual, there were a total of 4 of us, two on the frontend, two on the backend, I worked on the frontend. This was my first time working with charts, I decided to learn Charts.JS while the others worked on either mocking data, setting up Models, Views, controllers or figuring out how to style the app. I really had to stretch my knowledge of React, this is where I learned exactly why understanding that setState runs async, that it uses referencial equation, and how to use helper functions within the frame of state manipulation was so important. One of the more fun challenges I had with this project was the loss of the backend, I could not possibly run the backend code for a public deploy, as the dependancies were in a library specific to LM's ecosystem, so I actually had to write a utility to come up with hundreds of randomized contacts so I could deploy this as a portfolio piece. If I were to re-write it now, I wouldn't change much honestly, the code needs cleaning, it's hard to read, there are some functions that could be condensed or combined, but I'm pretty proud of the work for only having had little less than 4 days to write it.
   </p>
-  ![image](https://github.com/TylusDawkins/TylusDawkins/assets/100214696/8a6c341c-0f7b-42d9-a856-9501c48bfec8)
+  <img src='https://github.com/TylusDawkins/TylusDawkins/assets/100214696/8a6c341c-0f7b-42d9-a856-9501c48bfec8' height='500px' width='500px'/>
 
 </body>
 
