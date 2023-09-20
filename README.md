@@ -1,6 +1,5 @@
 
 <body align="center">
-  <h1 align="center">THIS IS A WIP</h1>
   <div id="header" align="center">
     <img src="https://media0.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif" width="100"/>
   </div>
@@ -74,6 +73,14 @@
 <p>
   https://dmj-next-test.vercel.app/home/design-board
 </p>
+
+<h1 align="center">
+  Thanks!
+</h1>
+<p align="center">
+  If you've read this far I appreciate the time you spent here! Between constantly watching two toddlers and working diligently full time I really don't have time for an elaborate portfolio or super passionate portfolio pieces, but I felt I wanted something more than a CV to capture my joy and talent. So again,
+</p>
+<h1 align="center">Thank you!</h1>
 
 </body>
 
