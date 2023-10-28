@@ -17,7 +17,7 @@
     Nice to meet you! I'm Tylus Dawkins.
   </p>
   <p align="center">
-    Truthfully, I don't have much to say about myself. 
+    I'm a FullStack Engineer with a focus on user experience. I have experience in many JavaScript/TypeScript and many of their common libraries for both Frontend and Backend work.
   </p>
   <p align="center">
     :seedling: I was born and raised in Las Vegas, NV
@@ -31,18 +31,38 @@
     💁: Before becoming a Software Engineer I worked in the insurance space working in contact centers, I spend time as an agent, a mentor/Nesting coach, and a Trainer/Learning Specialist.
   </p>
 
+  <h2 align="center">
+    Values
+  </h2>
+
+  <p align="center">
+    Team Oriented: I am team-oriented, it is my goal to make sure that all of my associates have the ability and support to perform their jobs.
+  </p>
+
+  <p align="center">
+    Collaboration: I believe all of our best work is done in conjunction with others
+  </p>
+
+  <p align="center">
+    Transparency: It is impossible to work with others if you're not open and honest.
+  </p>
+
+  <p align="center">
+    Integrity: Results are driven by well intenioned actions
+  </p>
+
   <h1 align="center">
     Stacks/Talents
   </h1>
-  <p align="center">
+<!--   <p align="center">
     I am primarially focused on Full-Stack work using JS and Node in various frameworks/libraries. My favorites include:
-  </p>
+  </p> -->
   <div align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="Next" alt="Next" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongo" alt="Mongo" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Mongo" alt="Mongo" width="80" height="80"/>&nbsp;
+  <img src="![icons8-express-js-500](https://github.com/TylusDawkins/TylusDawkins/assets/100214696/535c80c8-0af3-4a6c-a9d5-ac81c8ddf217)" title="Express" alt="Express" width="80" height="80"/>&nbsp;
   </div>
   <p align="center">
     I am proficient in several other languages/frameworks such as Python's Django, TypeScript's Angular, Vue.JS and more, but the above are my preferred languages.
