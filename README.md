@@ -95,13 +95,8 @@
 </p>
 
 <h1 align="center">
-  Thanks!
+  Thanks you for reading this!
 </h1>
-<p align="center">
-  If you've read this far I appreciate the time you spent here! Between constantly watching two toddlers and working diligently full time I really don't have time for an elaborate portfolio or super passionate portfolio pieces, but I felt I wanted something more than a CV to capture my joy and talent. So again,
-</p>
-<h1 align="center">Thank you!</h1>
-
 </body>
 
 
