@@ -62,13 +62,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="Next" alt="Next" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongo" alt="Mongo" width="80" height="80"/>&nbsp;
-  <img src="![icons8-express-js-500](https://github.com/TylusDawkins/TylusDawkins/assets/100214696/535c80c8-0af3-4a6c-a9d5-ac81c8ddf217)" title="Express" alt="Express" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/TylusDawkins/TylusDawkins/assets/100214696/535c80c8-0af3-4a6c-a9d5-ac81c8ddf217" title="Express" alt="Express" width="80" height="80"/>&nbsp;
   </div>
   <p align="center">
     I am proficient in several other languages/frameworks such as Python's Django, TypeScript's Angular, Vue.JS and more, but the above are my preferred languages.
   </p>
   <h1 align="center">
-    The Showcase
+    The Showcase(ish)
   </h1>
   <p align="center">
     This is a short collection of a few of the things I have worked on. Most of my best work has been done professionally on proprietary software I cannot share here, but here are a few of the things I have worked on in-between.
