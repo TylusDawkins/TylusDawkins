@@ -10,7 +10,7 @@
       </a>
       <br>
       <a href="https://github.com/TylusDawkins/TylusDawkins/blob/main/Tylus%20Dawkins%20Resume.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/Resume-white" alt="Resume Badge"/>
+        <img src="https://img.shields.io/badge/Resume-white" alt="Resume Badge" width="111px" height="28px"/>
       </a>
     </div>
   </div>
