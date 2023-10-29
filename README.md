@@ -8,6 +8,9 @@
       <a href="https://www.linkedin.com/in/tylus-dawkins-292785160/" target="_blank">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
+      <a href="https://github.com/TylusDawkins/TylusDawkins/blob/main/Tylus%20Dawkins%20Resume.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/Resume-white" alt="Resume Badge"/>
+      </a>
     </div>
   </div>
   <h1 align="center">
