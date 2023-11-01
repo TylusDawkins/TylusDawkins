@@ -69,10 +69,12 @@
   <p align="center">
     I am proficient in several other languages/frameworks such as Python's Django, TypeScript's Angular, Vue.JS and more, but the above are my preferred languages.
   </p>
-
+  
+  </br>
   <p>
     I have on many occasions demonstrated being a fast learner, in my most recent role, I started a new task in my first full sprint, working in AWS Lex, a technology previously unknown to me. Through reading documentation and researching existing code I released a fully tested production-ready feature. This included learning about AWS Cloud Formation Templates, AWS Lex intents, slots, utterances, and internally made testing suites for the chat bot. My team was very impressed with my independence and how quickly I delivered the feature.
   </p>
+  </br>
   
   <h1 align="center">
     The Showcase(ish)
