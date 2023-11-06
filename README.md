@@ -40,7 +40,7 @@
   </h2>
 
   <p align="center">
-    Team Oriented: I am team-oriented, it is my goal to make sure that all of my associates have the ability and support to perform their jobs.
+    Team Oriented: It is my goal to make sure that all of my associates have the ability and support to perform their jobs.
   </p>
 
   <p align="center">
