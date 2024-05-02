@@ -21,7 +21,7 @@
     Nice to meet you! I'm Tylus Dawkins.
   </p>
   <p align="center">
-    I'm a FullStack Engineer with a focus on user experience. I have experience in many JavaScript/TypeScript and many of their common libraries for both Frontend and Backend work.
+    I'm a FullStack Engineer with a focus on user experience. I have experience in JavaScript/TypeScript and many of their common libraries for both Frontend and Backend work.
   </p>
   <p align="center">
     :seedling: I was born and raised in Las Vegas, NV
