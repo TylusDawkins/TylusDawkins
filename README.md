@@ -65,6 +65,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongo" alt="Mongo" width="80" height="80"/>&nbsp;
       <img src="https://github.com/TylusDawkins/TylusDawkins/assets/100214696/535c80c8-0af3-4a6c-a9d5-ac81c8ddf217" title="Express" alt="Express" width="80" height="80"/>&nbsp;
+      <img src="https://github.com/TylusDawkins/AWS-Badge-Light/blob/main/awsLight.svg" title="Express" alt="Express" width="80" height="80"/>&nbsp;
   </div>
   <p align="center">
     I am proficient in several other languages/frameworks such as Python's Django, TypeScript's Angular, Vue.JS and more, but the above are my preferred languages.
