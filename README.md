@@ -28,11 +28,11 @@
   </p>
     
   <p align="center">
-    :zap: I am an Engineer for Liberty Mutual and have been practicing Full Stack Engineering for nearly two years
+    :zap: Most recently, I have been an Engineer for Liberty Mutual and have been practicing Full Stack Engineering for nearly two years
   </p>
   
   <p align="center">
-    💁: Before becoming a Software Engineer I worked in the insurance space working in contact centers, I spend time as an agent, a mentor/Nesting coach, and a Trainer/Learning Specialist.
+    💁: Before becoming a Software Engineer I worked in the insurance space working in contact centers, I spent time as an agent, a mentor/Nesting coach, and a Trainer/Learning Specialist.
   </p>
 
   <h2 align="center">
