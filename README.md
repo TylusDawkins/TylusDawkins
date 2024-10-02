@@ -77,7 +77,7 @@
   
   </br>
   <p>
-    I have on many occasions demonstrated being a fast learner, in my most recent role, I started a new task in my first full sprint, working in AWS Lex, a technology previously unknown to me. Through reading documentation and researching existing code I released a fully tested production-ready feature. This included learning about AWS Cloud Formation Templates, AWS Lex intents, slots, utterances, and internally made testing suites for the chat bot. My team was very impressed with my independence and how quickly I delivered the feature.
+    I have proven expertise with several technologies, with Liberty Mutual I created chatbots with Node, AWS Lex and Lambdas, I also created firewall applications with Python and Django. With Doka I worked with Angular creating a shipment/freight tracking application. With General Assembly I taught others how to work with React, JS, HTML, CSS, Python, Django, Mongdo and Postrgres. I worked with hundreds of students, and helped with thousands of projects.
   </p>
   </br>
   
