@@ -21,14 +21,14 @@
     Nice to meet you! I'm Tylus Dawkins.
   </p>
   <p align="center">
-    I'm a FullStack Engineer with a focus on user experience. I have experience in JavaScript/TypeScript and many of their common libraries for both Frontend and Backend work.
+   Experienced Full-Stack Engineer with expertise in Web or API Development and Cloud Solutions, honed through roles at Liberty Mutual, General Assembly and Doka. I am skilled in every step of the software development lifecycle. I empower teams and mentor others. I am passionate about delivering high-impact software solutions that drive business value through innovation and collaboration.
   </p>
   <p align="center">
     :seedling: I was born and raised in Las Vegas, NV
   </p>
     
   <p align="center">
-    :zap: Most recently, I have been an Engineer for Liberty Mutual and have been practicing Full Stack Engineering for nearly two years
+    :zap: Most recently, I was a Software Engineer for Liberty Mutual where I worked on their IVR Chatbots, as well as their firewall applications.
   </p>
   
   <p align="center">
@@ -62,10 +62,14 @@
   <div align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="80" height="80"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="80" height="80"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongo" alt="Mongo" width="80" height="80"/>&nbsp;
       <img src="https://github.com/TylusDawkins/TylusDawkins/assets/100214696/535c80c8-0af3-4a6c-a9d5-ac81c8ddf217" title="Express" alt="Express" width="80" height="80"/>&nbsp;
       <img src="https://github.com/TylusDawkins/AWS-Badge-Light/blob/main/awsLight.svg" title="Express" alt="Express" width="80" height="80"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="80" height="80"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="80" height="80"/>&nbsp;
   </div>
   <p align="center">
     I am proficient in several other languages/frameworks such as Python's Django, TypeScript's Angular, Vue.JS and more, but the above are my preferred languages.
