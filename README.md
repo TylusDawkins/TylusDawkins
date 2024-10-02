@@ -101,6 +101,7 @@
   <h2 align="center">
     Jewlery Designer
   </h2>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
 <p align="center">
   This is a project that I have been building as part of a family project, it is currently on hold, and thus development has stopped on it, it's certainly not my best or prettiest work but it still details an interesting part of my journey. Originally I built this out in plain ol' React, since first starting development it became abundantly clear that React on its own was not well suited for this sort of project, with plans for hundreds of images to be rendered at a time, as well as the expanding tech debt that is development in base react, I felt that using a SSR framework was a must and that it would make the development experience much better if I could write API routes within the same project. Thus I converted all of my react Syntax to Next syntax and learned how to develop in Next. Like I mentioned earlier, it's not super pretty, it's also not incredibly technical, but I learned how to incorporate express functionalities into Next components. Now, it is worth mentioning that this is a full-stack app with an admin dashboard in the background, I have implemented full-crud into this. 
 </p>
@@ -111,8 +112,12 @@
   https://dmj-next-test.vercel.app/home/design-board
 </p>
 
+<h2 align="center">
+    Dungeons and Dragons roguelike creator
+</h2>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
 <p align="center">
-  I built this as an idea I had for a little known game called "Dungeons and Dragons". See I am a big fan of DnD, however there is one big barrier to playing it, getting a table of people together. So I wanted to think of a system that could allow for a DnD like experience that one could play on their own, and thus I took inspiration from roguelike games, as they are typically highly re-playable as most of them feature randomized combat abilities. Background aside, this project has been an excellent experience in terms of both logic/scripting and UI/UX. It forced me to outgrow some old habits and learn some new skills, such as not making enough components for re-use, implementing callbacks, using local storage. I have complex logic for deciding what spells and abilities the player gets, state management for resources that include messages when certain actions are not possible, etc. In terms of UI/UX, it offers a mixture of rich colors, high contrast, and a parchment/scroll aesthetic. There's consistency in the styling and a sense of belonging in the elements.
+  I built this as an idea I had for a little known game called "Dungeons and Dragons". It is built using React See I am a big fan of DnD, however there is one big barrier to playing it, getting a table of people together. So I wanted to think of a system that could allow for a DnD like experience that one could play on their own, and thus I took inspiration from roguelike games, as they are typically highly re-playable as most of them feature randomized combat abilities. Background aside, this project has been an excellent experience in terms of both logic/scripting and UI/UX. It forced me to outgrow some old habits and learn some new skills, such as not making enough components for re-use, implementing callbacks, using local storage. I have complex logic for deciding what spells and abilities the player gets, state management for resources that include messages when certain actions are not possible, etc. In terms of UI/UX, it offers a mixture of rich colors, high contrast, and a parchment/scroll aesthetic. There's consistency in the styling and a sense of belonging in the elements.
 </p>
 
 <image src="https://github.com/TylusDawkins/TylusDawkins/assets/100214696/12e15c58-6529-4575-9f28-f2eb00890e6b" height='50%' width='100%' align="center"/>
