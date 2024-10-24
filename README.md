@@ -89,13 +89,25 @@
   <h2 align="center">
     Sales Tracker
   </h2>
-  
   <p align="center">
     This is probably my most interesting project to talk about as it is truly the most learning I have done in the fewest days. I worked on this as part of a 4-day group hackathon for our onboarding with Liberty Mutual, there were a total of 4 of us, two on the frontend, and two on the backend, I worked on the frontend. This was my first time working with charts, I decided to learn Charts.JS while the others worked on either mocking data, setting up Models, Views, and controllers, or figuring out how to style the app. I had to stretch my knowledge of React, this is where I learned exactly why understanding that setState runs async, that it uses reference equation, and how to use helper functions within the frame of state manipulation was so important. One of the more fun challenges I had with this project was the loss of the backend, I could not possibly run the backend code for a public deployment, as the dependancies were in a library specific to LM's ecosystem, so I had to write a utility to come up with hundreds of randomized contacts so I could deploy this as a portfolio piece. If I were to re-write it now, I wouldn't change much honestly, the code needs cleaning, it's hard to read, and some functions could be condensed or combined, but I'm pretty proud of the work for only having had little less than 4 days to write it.
   </p>
   
   <img src='https://github.com/TylusDawkins/TylusDawkins/assets/100214696/8a6c341c-0f7b-42d9-a856-9501c48bfec8' height='50%' width='100%'/>
   
+  <p>
+    https://tylus-dawkins-ist.netlify.app
+  </p>
+
+  <h2 align="center">
+    React Calendar
+  </h2>
+  
+  <p align="center">
+    This was a take home project for a job I was interviewing for. I was asked to make a basic calendar appliction where I could accurately change months, months started on the right days, months had the correct amount of days, days before the current day of the month were grayed out and unselectable, that the current day would be highlighted, and that a future day could be selected. Ultimately I chose to copy the UI they provided as a mockup as I thought that being able to precisely replicate a design showed more skill than putting my own spin into the design. I found the logic to be rather simple, as an optional feature they asked that I had some unit tests to go with the application, at the time, I hadn't written unit tests for React, so I decided to go all of the way in and get 100% testing coverage, and decided to test my own edge cases that I could see being an issue.
+  </p>
+  <img src='![Screenshot 2024-10-16 210907](https://github.com/user-attachments/assets/e1045ae7-6dda-46ff-9764-19420dde4608)
+' height='50%' width='100%'/>
   <p>
     https://tylus-dawkins-ist.netlify.app
   </p>
