@@ -106,7 +106,7 @@
   <p align="center">
     This was a take home project for a job I was interviewing for. I was asked to make a basic calendar appliction where I could accurately change months, months started on the right days, months had the correct amount of days, days before the current day of the month were grayed out and unselectable, that the current day would be highlighted, and that a future day could be selected. Ultimately I chose to copy the UI they provided as a mockup as I thought that being able to precisely replicate a design showed more skill than putting my own spin into the design. I found the logic to be rather simple, as an optional feature they asked that I had some unit tests to go with the application, at the time, I hadn't written unit tests for React, so I decided to go all of the way in and get 100% testing coverage, and decided to test my own edge cases that I could see being an issue.
   </p>
-  <img src='![Screenshot 2024-10-16 210907](https://github.com/user-attachments/assets/e1045ae7-6dda-46ff-9764-19420dde4608)
+  <img src='![Screenshot 2024-10-24 124042](https://github.com/user-attachments/assets/f0f00039-4d7b-48cc-a985-96fe7577f450)
 ' height='50%' width='100%'/>
   <p>
     https://tylus-dawkins-ist.netlify.app
