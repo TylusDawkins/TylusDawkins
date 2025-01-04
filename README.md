@@ -28,7 +28,7 @@
   </p>
     
   <p align="center">
-    :zap: Most recently, I was a Software Engineer for Liberty Mutual where I worked on their IVR Chatbots, as well as their firewall applications.
+    :zap: Most recently, I was a Full time Software Engineer for Liberty Mutual where I worked on their IVR Chatbots, as well as their firewall applications. I have also been working on contract roles, as well as teaching part time!
   </p>
   
   <p align="center">
@@ -74,7 +74,7 @@
   
   </br>
   <p>
-    I have proven expertise with several technologies, with Liberty Mutual I created chatbots with Node, AWS Lex and Lambdas, I also created firewall applications with Python and Django. With Doka I worked with Angular creating a shipment/freight tracking application. With General Assembly I taught others how to work with React, JS, HTML, CSS, Python, Django, Mongdo and Postrgres. I worked with hundreds of students, and helped with thousands of projects.
+    I have proven expertise with several technologies, with Liberty Mutual I created chatbots with Node using JavaScript/Typscript, AWS Lex and Lambdas, I also created firewall container application with Python/Django, MySQL, and AWS. With Doka I worked with Angular creating a shipment/freight tracking application. With General Assembly I taught others how to work with React, JS, HTML, CSS, Python, Django, Mongdo and Postrgres. I worked with hundreds of students, and helped with thousands of projects.
   </p>
   </br>
   
