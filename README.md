@@ -21,7 +21,7 @@
     Nice to meet you! I'm Tylus Dawkins.
   </p>
   <p align="center">
-   Experienced Full-Stack Engineer with expertise in Web or API Development and Cloud Solutions, honed through roles at Liberty Mutual, General Assembly and Doka. I am skilled in every step of the software development lifecycle. I empower teams and mentor others. I am passionate about delivering high-impact software solutions that drive business value through innovation and collaboration.
+   Experienced Full-Stack Engineer with expertise in Web or API Development, Cloud Solutions, testing, and integration, honed through roles at Liberty Mutual, General Assembly and Doka. I am skilled in every step of the software development lifecycle. I empower teams and mentor others. I am passionate about delivering high-impact software solutions that drive business value through innovation and collaboration.
   </p>
   <p align="center">
     :seedling: I was born and raised in Las Vegas, NV
