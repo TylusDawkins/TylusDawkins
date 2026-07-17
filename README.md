@@ -23,9 +23,9 @@
   <p align="center">
    Full-Stack Engineer building real-time systems in regulated industries. Currently at Circa Sports, developing a .NET Orleans / MSSQL backend for real-time sports betting data, with Blazor/MAUI and WinForms UIs on top of it. Before that I built claims and policy services automation in a compliance-first environment at Liberty Mutual. I specialize in microservice architecture and cloud infrastructure across AWS and Azure, with a systems-level emphasis on auditability, correctness, and data migration at scale &mdash; I'm comfortable across the full stack and multiple languages, and I've shipped production software under regulatory constraints where correctness and long-term maintainability are non-negotiable.
   </p>
-  <p align="center">
+  <!-- <p align="center">
     :seedling: I was born and raised in Las Vegas, NV
-  </p>
+  </p> -->
 
   <p align="center">
     :zap: Career timeline: Circa Sports (Full-Stack Software Engineer, current) &rarr; Liberty Mutual (Software Engineer, IVR chatbots & firewall-as-code) &rarr; Doka (contract, shipment tracking) &rarr; General Assembly (instructor, part-time/full-time throughout).
