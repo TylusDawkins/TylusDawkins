@@ -21,14 +21,14 @@
     Nice to meet you! I'm Tylus Dawkins.
   </p>
   <p align="center">
-   Full-Stack Engineer with direct production experience in P&C insurance at Liberty Mutual, building claims and billing automation in a regulated, compliance-first environment. I specialize in real-time systems, microservice architecture, and cloud infrastructure across AWS and Azure, with a systems-level emphasis on auditability, correctness, and data migration at scale. I'm comfortable across the full stack and multiple languages, and I've shipped production software under regulatory constraints where correctness and long-term maintainability are non-negotiable.
+   Full-Stack Engineer building real-time systems in regulated industries. Currently at Circa Sports, architecting a .NET Orleans / MSSQL backend for real-time sports betting data, with Blazor/MAUI and WinForms UIs on top of it. Before that I built claims and billing automation in a compliance-first environment at Liberty Mutual. I specialize in microservice architecture and cloud infrastructure across AWS and Azure, with a systems-level emphasis on auditability, correctness, and data migration at scale &mdash; I'm comfortable across the full stack and multiple languages, and I've shipped production software under regulatory constraints where correctness and long-term maintainability are non-negotiable.
   </p>
   <p align="center">
     :seedling: I was born and raised in Las Vegas, NV
   </p>
 
   <p align="center">
-    :zap: Currently, I'm a Full-Stack Software Engineer at Circa Sports, building a .NET Orleans / MSSQL backend for real-time sports betting data systems, plus the Blazor/MAUI and WinForms UIs that sit on top of it. Before that I was a Software Engineer at Liberty Mutual working on IVR chatbots and firewall-as-code applications, a contract engineer at Doka, and a part-time/full-time instructor at General Assembly.
+    :zap: Career timeline: Circa Sports (Full-Stack Software Engineer, current) &rarr; Liberty Mutual (Software Engineer, IVR chatbots & firewall-as-code) &rarr; Doka (contract, shipment tracking) &rarr; General Assembly (instructor, part-time/full-time throughout).
   </p>
 
   <p align="center">
