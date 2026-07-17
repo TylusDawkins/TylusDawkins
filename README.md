@@ -5,11 +5,11 @@
   </div>
   <div align="center">
     <div id="badges" width="20%">
-      <a href="https://www.linkedin.com/in/tylus-dawkins-292785160/" target="_blank">
+      <a href="https://www.linkedin.com/in/tylusdawkins" target="_blank">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
       <br>
-      <a href="https://github.com/TylusDawkins/TylusDawkins/blob/main/Tylus%20Dawkins%20Resume.pdf" target="_blank">
+      <a href="https://github.com/TylusDawkins/TylusDawkins/blob/main/TylusDawkins_Resume.pdf" target="_blank">
         <img src="https://img.shields.io/badge/My%20Resume-white" alt="Resume Badge" width="111px" height="28px"/>
       </a>
     </div>
@@ -21,16 +21,16 @@
     Nice to meet you! I'm Tylus Dawkins.
   </p>
   <p align="center">
-   Experienced Full-Stack Engineer with expertise in Web or API Development, Cloud Solutions, testing, and integration, honed through roles at Liberty Mutual, General Assembly and Doka. I am skilled in every step of the software development lifecycle. I empower teams and mentor others. I am passionate about delivering high-impact software solutions that drive business value through innovation and collaboration.
+   Full-Stack Engineer with direct production experience in P&C insurance at Liberty Mutual, building claims and billing automation in a regulated, compliance-first environment. I specialize in real-time systems, microservice architecture, and cloud infrastructure across AWS and Azure, with a systems-level emphasis on auditability, correctness, and data migration at scale. I'm comfortable across the full stack and multiple languages, and I've shipped production software under regulatory constraints where correctness and long-term maintainability are non-negotiable.
   </p>
   <p align="center">
     :seedling: I was born and raised in Las Vegas, NV
   </p>
-    
+
   <p align="center">
-    :zap: Most recently, I was a Full time Software Engineer for Liberty Mutual where I worked on their IVR Chatbots, as well as their firewall applications. I have also been working on contract roles, as well as teaching part time!
+    :zap: Currently, I'm a Full-Stack Software Engineer at Circa Sports, building a .NET Orleans / MSSQL backend for real-time sports betting data systems, plus the Blazor/MAUI and WinForms UIs that sit on top of it. Before that I was a Software Engineer at Liberty Mutual working on IVR chatbots and firewall-as-code applications, a contract engineer at Doka, and a part-time/full-time instructor at General Assembly.
   </p>
-  
+
   <p align="center">
     💁: Before becoming a Software Engineer I worked in the insurance space working in contact centers, I spent time as an agent, a mentor/Nesting coach, and a Trainer/Learning Specialist.
   </p>
@@ -52,94 +52,108 @@
   </p>
 
   <p align="center">
-    Integrity: Results are driven by well intenioned actions
+    Integrity: Results are driven by well-intentioned actions
   </p>
 
   <h1 align="center">
     Stacks/Talents
   </h1>
-  
+
   <div align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongo" alt="Mongo" width="80" height="80"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="80" height="80"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt=".NET" width="80" height="80"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" title="Blazor" alt="Blazor" width="80" height="80"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="80" height="80"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="80" height="80"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidjs/solidjs-original.svg" title="Solid.js" alt="Solid.js" width="80" height="80"/>&nbsp;
       <img src="https://github.com/TylusDawkins/TylusDawkins/assets/100214696/535c80c8-0af3-4a6c-a9d5-ac81c8ddf217" title="Express" alt="Express" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/TylusDawkins/AWS-Badge-Light/blob/main/awsLight.svg" title="Express" alt="Express" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="80" height="80"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="Django" alt="Django" width="80" height="80"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-plain.svg" title="FastAPI" alt="FastAPI" width="80" height="80"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="80" height="80"/>&nbsp;
+      <br/><br/>
+      <img src="https://raw.githubusercontent.com/TylusDawkins/AWS-Badge-Light/main/awsLight.svg" title="AWS" alt="AWS" width="80" height="80"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="80" height="80"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="80" height="80"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="80" height="80"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MSSQL" alt="MSSQL" width="80" height="80"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="80" height="80"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="80" height="80"/>&nbsp;
   </div>
-  
+
   </br>
   <p>
-    I have proven expertise with several technologies, with Liberty Mutual I created chatbots with Node using JavaScript/Typscript, AWS Lex and Lambdas, I also created firewall container application with Python/Django, MySQL, and AWS. With Doka I worked with Angular creating a shipment/freight tracking application. With General Assembly I taught others how to work with React, JS, HTML, CSS, Python, Django, Mongdo and Postrgres. I worked with hundreds of students, and helped with thousands of projects.
+    I have proven expertise with several technologies. At Circa Sports I build a .NET Orleans and MSSQL backend for real-time sports betting data, plus Blazor/MAUI and WinForm UIs on top of it. At Liberty Mutual I created chatbots with Node/TypeScript, AWS Lex and Lambdas, and a Python/Django application for generating migratable firewall templates across Azure ARM, Bicep, AWS CFT and Terraform. With Doka I worked with Angular building a shipment/freight tracking application. With General Assembly I taught full-stack development in React, Next.js, Node/Express, Python/Django, PostgreSQL and MongoDB to hundreds of students across thousands of projects.
   </p>
   </br>
-  
+
   <h1 align="center">
     The Showcase(ish)
   </h1>
-  
+
   <p align="center">
-    This is a short collection of a few of the things I have worked on. Most of my best work has been done professionally on proprietary software I cannot share here, but here are a few of the things I have worked on in-between.
+    Most of my best work has been done professionally on proprietary software I can't share here (see my <a href="https://github.com/TylusDawkins/TylusDawkins/blob/main/TylusDawkins_Resume.pdf">resume</a> for that), but here's what I've built in-between.
   </p>
-  
+
   <h2 align="center">
+    Two-Way Translator &mdash; Real-Time AI Speech Translation Platform
+  </h2>
+  <p align="center">
+    A multi-service real-time speech transcription and translation platform, architected for production-grade reliability with horizontal and vertical scaling in mind. A Solid.js frontend streams live transcripts over WebSockets from a FastAPI backend handling JWT auth and session management. It's split into 4 specialized microservices: an authenticated audio ingest receiver, a GPU-accelerated Whisper (large-v3) transcriber, a transcription merger for text assembly and persistence across active sessions, and the main session API &mdash; connected by Redis pub/sub, backed by PostgreSQL with Alembic migrations, and deployed via a multi-profile Docker Compose setup supporting both CPU and GPU targets.
+  </p>
+  <p align="center">
+    <a href="https://github.com/TylusDawkins/multi_lingual_transcriber">github.com/TylusDawkins/multi_lingual_transcriber</a>
+  </p>
+
+  <h2 align="center">
+    Design Your Jewelry &mdash; Full-Stack Next.js E-Commerce Platform
+  </h2>
+  <p align="center">
+    A custom jewelry design and e-commerce platform built with Next.js 14, Tailwind CSS, and PostgreSQL, deployed to Vercel. It features a drag-and-drop design board (@dnd-kit) supporting 7 chain configurations, per-anchor bead placement, and a real-time skin-tone mannequin preview, with server-side auth validation via Clerk's <code>getAuth()</code> to prevent user spoofing at the API layer. Order management runs through a Stripe integration and a full Sequelize data model covering design submission, handcraft fulfillment, and shipment tracking.
+  </p>
+
+  <image src="https://github.com/TylusDawkins/TylusDawkins/assets/100214696/e311a8cc-6297-4ff5-a469-9555f0dce023" height='50%' width='100%' align="center"/>
+
+  <p align="center">
+    <a href="https://dmj-next-test.vercel.app/home/design-board">dmj-next-test.vercel.app</a>
+  </p>
+
+  <h2 align="center">
+    For the Nostalgic
+  </h2>
+  <p align="center">
+    Older personal/bootcamp projects, kept around for the story more than the code.
+  </p>
+
+  <h3 align="center">
     Sales Tracker
-  </h2>
+  </h3>
   <p align="center">
-    This is probably my most interesting project to talk about as it is truly the most learning I have done in the fewest days. I worked on this as part of a 4-day group hackathon for our onboarding with Liberty Mutual, there were a total of 4 of us, two on the frontend, and two on the backend, I worked on the frontend. This was my first time working with charts, I decided to learn Charts.JS while the others worked on either mocking data, setting up Models, Views, and controllers, or figuring out how to style the app. I had to stretch my knowledge of React, this is where I learned exactly why understanding that setState runs async, that it uses reference equation, and how to use helper functions within the frame of state manipulation was so important. One of the more fun challenges I had with this project was the loss of the backend, I could not possibly run the backend code for a public deployment, as the dependancies were in a library specific to LM's ecosystem, so I had to write a utility to come up with hundreds of randomized contacts so I could deploy this as a portfolio piece. If I were to re-write it now, I wouldn't change much honestly, the code needs cleaning, it's hard to read, and some functions could be condensed or combined, but I'm pretty proud of the work for only having had little less than 4 days to write it.
+    This is probably my most interesting project to talk about as it is truly the most learning I have done in the fewest days. I worked on this as part of a 4-day group hackathon for our onboarding with Liberty Mutual, there were a total of 4 of us, two on the frontend, and two on the backend, I worked on the frontend. This was my first time working with charts, I decided to learn Chart.js while the others worked on either mocking data, setting up Models, Views, and controllers, or figuring out how to style the app. I had to stretch my knowledge of React, this is where I learned exactly why understanding that setState runs async, that it uses reference equality, and how to use helper functions within the frame of state manipulation was so important. One of the more fun challenges I had with this project was the loss of the backend, I could not possibly run the backend code for a public deployment, as the dependencies were in a library specific to LM's ecosystem, so I had to write a utility to come up with hundreds of randomized contacts so I could deploy this as a portfolio piece.
   </p>
-  
+
   <img src='https://github.com/TylusDawkins/TylusDawkins/assets/100214696/8a6c341c-0f7b-42d9-a856-9501c48bfec8' height='50%' width='100%'/>
-  
-  <p>
-    https://tylus-dawkins-ist.netlify.app
-  </p>
 
-  <h2 align="center">
-    React Calendar
-  </h2>
-  
   <p align="center">
-    This was a take home project for a job I was interviewing for. I was asked to make a basic calendar appliction where I could accurately change months, months started on the right days, months had the correct amount of days, days before the current day of the month were grayed out and unselectable, that the current day would be highlighted, and that a future day could be selected. Ultimately I chose to copy the UI they provided as a mockup as I thought that being able to precisely replicate a design showed more skill than putting my own spin into the design. I found the logic to be rather simple, as an optional feature they asked that I had some unit tests to go with the application, at the time, I hadn't written unit tests for React, so I decided to go all of the way in and get 100% testing coverage, and decided to test my own edge cases that I could see being an issue.
-  </p>
-  <img src='https://github.com/user-attachments/assets/f0f00039-4d7b-48cc-a985-96fe7577f450' height='50%' width='100%'/>
-  <p>
-    https://tylus-dawkins-ist.netlify.app
+    <a href="https://tylus-dawkins-ist.netlify.app">tylus-dawkins-ist.netlify.app</a>
   </p>
 
-  <h2 align="center">
+  <h3 align="center">
     Dungeons and Dragons roguelike creator
-  </h2>
+  </h3>
   <p align="center">
-    I built this as an idea I had for a little known game called "Dungeons and Dragons". It is built using React See I am a big fan of DnD, however there is one big barrier to playing it, getting a table of people together. So I wanted to think of a system that could allow for a DnD like experience that one could play on their own, and thus I took inspiration from roguelike games, as they are typically highly re-playable as most of them feature randomized combat abilities. Background aside, this project has been an excellent experience in terms of both logic/scripting and UI/UX. It forced me to outgrow some old habits and learn some new skills, such as not making enough components for re-use, implementing callbacks, using local storage. I have complex logic for deciding what spells and abilities the player gets, state management for resources that include messages when certain actions are not possible, etc. In terms of UI/UX, it offers a mixture of rich colors, high contrast, and a parchment/scroll aesthetic. There's consistency in the styling and a sense of belonging in the elements.
+    I built this as an idea I had for a little known game called "Dungeons and Dragons," using React. I'm a big fan of DnD, but there's one big barrier to playing it: getting a table of people together. So I wanted a system that could allow for a DnD-like experience one could play solo, taking inspiration from roguelikes since they're typically highly replayable thanks to randomized combat abilities. It's been an excellent exercise in both logic/scripting and UI/UX &mdash; complex logic for deciding what spells and abilities the player gets, state management for resources with messaging when actions aren't possible, and a parchment/scroll aesthetic with rich colors and high contrast throughout.
   </p>
-  
+
   <image src="https://github.com/TylusDawkins/TylusDawkins/assets/100214696/12e15c58-6529-4575-9f28-f2eb00890e6b" height='50%' width='100%' align="center"/>
-  
-  <p>
-    https://5e-rogue-like.netlify.app
+
+  <p align="center">
+    <a href="https://5e-rogue-like.netlify.app">5e-rogue-like.netlify.app</a>
   </p>
-  
-  <h2 align="center">
-    Jewlery Designer <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
-  </h2>
-<p align="center">
-  This is a project that I have been building as part of a family project, it is currently on hold, and thus development has stopped on it, it's certainly not my best or prettiest work but it still details an interesting part of my journey. Originally I built this out in plain ol' React, since first starting development it became abundantly clear that React on its own was not well suited for this sort of project, with plans for hundreds of images to be rendered at a time, as well as the expanding tech debt that is development in base react, I felt that using a SSR framework was a must and that it would make the development experience much better if I could write API routes within the same project. Thus I converted all of my react Syntax to Next syntax and learned how to develop in Next. Like I mentioned earlier, it's not super pretty, it's also not incredibly technical, but I learned how to incorporate express functionalities into Next components. Now, it is worth mentioning that this is a full-stack app with an admin dashboard in the background, I have implemented full-crud into this. 
-</p>
-
-<image src="https://github.com/TylusDawkins/TylusDawkins/assets/100214696/e311a8cc-6297-4ff5-a469-9555f0dce023" height='50%' width='100%' align="center"/>
-
-<p>
-  https://dmj-next-test.vercel.app/home/design-board
-</p>
 
 <h1 align="center">
-  Thanks you for reading this!
+  Thank you for reading this!
 </h1>
 </body>
-
-
